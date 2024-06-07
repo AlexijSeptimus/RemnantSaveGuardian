@@ -122,7 +122,7 @@
     <comment/>
   </data>
   <data name="AboveBelow" xml:space="preserve">
-    <value>The Executioner</value>
+    <value>As Above, so Below</value>
     <comment/>
   </data>
   <data name="Alchemist" xml:space="preserve">
@@ -134,7 +134,7 @@
     <comment/>
   </data>
   <data name="AllFatherStory" xml:space="preserve">
-    <value>Palace &amp; Jester</value>
+    <value>The Imposter King</value>
     <comment/>
   </data>
   <data name="Amulets" xml:space="preserve">
@@ -530,7 +530,7 @@
     <comment/>
   </data>
   <data name="BlackHole" xml:space="preserve">
-    <value>Gravity Anomaly</value>
+    <value>Black Hole</value>
     <comment/>
   </data>
   <data name="BloatKing" xml:space="preserve">
@@ -554,7 +554,7 @@
     <comment/>
   </data>
   <data name="BrokenTomb" xml:space="preserve">
-    <value>The Weald Stalker/The Gnarled Archer</value>
+    <value>Broken Tomb</value>
     <comment/>
   </data>
   <data name="ButchersQuarter" xml:space="preserve">
@@ -646,7 +646,7 @@
     <comment/>
   </data>
   <data name="Extermination" xml:space="preserve">
-    <value>Quarantine</value>
+    <value>Extermination</value>
     <comment/>
   </data>
   <data name="Extraction" xml:space="preserve">
@@ -726,7 +726,7 @@
     <comment/>
   </data>
   <data name="HiddenMaze" xml:space="preserve">
-    <value>Maze</value>
+    <value>Endeira's End</value>
     <comment/>
   </data>
   <data name="Hunter" xml:space="preserve">
@@ -750,7 +750,7 @@
     <comment/>
   </data>
   <data name="IslandJump" xml:space="preserve">
-    <value>Island Jump Puzzle</value>
+    <value>Island Jump</value>
     <comment/>
   </data>
   <data name="Item_HiddenContainer_Material_Engram_Alchemist" xml:space="preserve">
@@ -810,15 +810,15 @@
     <comment/>
   </data>
   <data name="Library" xml:space="preserve">
-    <value>Atrophy</value>
+    <value>Library</value>
     <comment/>
   </data>
   <data name="LivingStone" xml:space="preserve">
-    <value>Weeping Angels</value>
+    <value>Living Stone</value>
     <comment/>
   </data>
   <data name="LurkerVents" xml:space="preserve">
-    <value>W.D. 109</value>
+    <value>Robot Hangar</value>
     <comment/>
   </data>
   <data name="Main" xml:space="preserve">
@@ -1066,7 +1066,7 @@
     <comment/>
   </data>
   <data name="Oink" xml:space="preserve">
-    <value>Gorge</value>
+    <value>Oink</value>
     <comment/>
   </data>
   <data name="OraclesRefuge" xml:space="preserve">
@@ -1778,7 +1778,7 @@
     <comment/>
   </data>
   <data name="RisingTides" xml:space="preserve">
-    <value>Flooding Sewer</value>
+    <value>Rising Tides</value>
     <comment/>
   </data>
   <data name="Root" xml:space="preserve">
@@ -1818,7 +1818,7 @@
     <comment/>
   </data>
   <data name="Shockwire" xml:space="preserve">
-    <value>Broken Cable</value>
+    <value>Shockwire</value>
     <comment/>
   </data>
   <data name="SideD" xml:space="preserve">
@@ -1826,7 +1826,7 @@
     <comment/>
   </data>
   <data name="SilverGold" xml:space="preserve">
-    <value>The Statues</value>
+    <value>Silver and Gold</value>
     <comment/>
   </data>
   <data name="SpectrumNexus" xml:space="preserve">
@@ -1838,7 +1838,7 @@
     <comment/>
   </data>
   <data name="StoreRoom" xml:space="preserve">
-    <value>The Progeny</value>
+    <value>Store Room</value>
     <comment/>
   </data>
   <data name="Summoner" xml:space="preserve">
@@ -1918,7 +1918,7 @@
     <comment/>
   </data>
   <data name="TheSafe" xml:space="preserve">
-    <value>Locked Safe</value>
+    <value>Dran Safe</value>
     <comment/>
   </data>
   <data name="TheTangle" xml:space="preserve">
@@ -1962,7 +1962,7 @@
     <comment/>
   </data>
   <data name="TownTurnedToDust" xml:space="preserve">
-    <value>Man in the Sewers</value>
+    <value>Dran in the Sewer</value>
     <comment/>
   </data>
   <data name="Train" xml:space="preserve">
@@ -2386,7 +2386,7 @@
     <comment/>
   </data>
   <data name="WindHollow" xml:space="preserve">
-    <value>Flute Tower</value>
+    <value>Wind Hollow</value>
     <comment/>
   </data>
   <data name="WorldBoss" xml:space="preserve">
@@ -2582,7 +2582,7 @@
     <comment/>
   </data>
   <data name="TheNest" xml:space="preserve">
-    <value>Severed Hand</value>
+    <value>Fae Nest</value>
     <comment/>
   </data>
   <data name="Trait_Affliction" xml:space="preserve">
@@ -2678,7 +2678,7 @@
     <comment/>
   </data>
   <data name="GardenMaze" xml:space="preserve">
-    <value>The Maze</value>
+    <value>Pathway of the Fallen</value>
     <comment/>
   </data>
   <data name="BurningCity_DLC" xml:space="preserve">
@@ -2686,7 +2686,7 @@
     <comment/>
   </data>
   <data name="Halls_DLC" xml:space="preserve">
-    <value>Mirror Floor</value>
+    <value>Reflection</value>
     <comment/>
   </data>
   <data name="BurningCity" xml:space="preserve">
@@ -2734,7 +2734,7 @@
     <comment/>
   </data>
   <data name="Sewer_DLC" xml:space="preserve">
-    <value>Sewer Hole</value>
+    <value>Corpse Drop</value>
     <comment/>
   </data>
   <data name="Witch" xml:space="preserve">
@@ -3010,7 +3010,7 @@
     <comment/>
   </data>
   <data name="Ziggurat_DLC" xml:space="preserve">
-    <value>Moon Puzzle Room</value>
+    <value>The Moon's Path</value>
     <comment/>
   </data>
   <data name="Amulet_StoneshapersChisel" xml:space="preserve">
@@ -3038,7 +3038,7 @@
     <comment/>
   </data>
   <data name="Island_DLC" xml:space="preserve">
-    <value>Doe Statue</value>
+    <value>Shrine of the Doe</value>
     <comment/>
   </data>
   <data name="Ring_TokenOfFavor" xml:space="preserve">
@@ -3066,7 +3066,7 @@
     <comment/>
   </data>
   <data name="Kiln" xml:space="preserve">
-    <value>Cinderclad Monolith</value>
+    <value>Cinderclad Forge</value>
     <comment/>
   </data>
   <data name="Ring_BurdenOfTheMesmer" xml:space="preserve">
@@ -3286,7 +3286,7 @@
     <comment/>
   </data>
   <data name="TombRaid" xml:space="preserve">
-    <value>The Gauntlet</value>
+    <value>Proving Grounds</value>
     <comment/>
   </data>
   <data name="ShiftingSoldier" xml:space="preserve">
@@ -3294,11 +3294,11 @@
     <comment/>
   </data>
   <data name="Crypt_DLC" xml:space="preserve">
-    <value>The Treasure Room</value>
+    <value>Pillar Hall</value>
     <comment/>
   </data>
   <data name="LydusaTemple" xml:space="preserve">
-    <value>Lydusa's Temple</value>
+    <value>Goddess's Rest</value>
     <comment/>
   </data>
 </root>
